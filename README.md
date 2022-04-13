@@ -12,3 +12,15 @@ Extract Unwired network data from Radex2000 database from 2010. Process data usi
 - EIRP (W + dBm/Hz)
 - Distribution of Deployment heights
 - ArcMap plot of Deployments
+
+### Unwired - Map of Deployments in Sydney 2010
+
+![Sydney Deployments](SydneyDeployments.PNG)
+
+### Unwired - Map of Deployments in Melbourne 2010
+
+![Melbourne Deployments](MelbourneDeployments.PNG)
+
+### NBN FWA - Map of Deployments in Australia 2017
+
+![Australia Deployments](NBN.PNG)
